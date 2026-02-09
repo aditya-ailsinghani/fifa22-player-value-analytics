@@ -6,7 +6,7 @@ An end-to-end data analytics and modeling project that explores **what drives fo
 
 ## Dataset
 
-- **Source**: FIFA 22 Official Player Dataset (Kaggle)
+- **Source**: [FIFA 22 Official Player Dataset (Kaggle)](https://www.kaggle.com/datasets/bryanb/fifa-player-stats-database?select=FIFA22_official_data.csv)
 - **Observations**: ~16,700 professional players
 - **Key Fields**:
   - Demographics: Age, Height, Weight, Nationality
