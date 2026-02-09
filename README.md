@@ -73,12 +73,15 @@ Rather than aggregating all players together, high- and low-value players were c
 
 ### Strikers (ST)
 High-value strikers significantly outperform others in finishing, positioning, ball control, and composure. While speed and shot power are also higher, the largest gaps are in goal conversion and decision-making, indicating that attacking efficiency matters more than raw athleticism.
+![High vs Low Value Attributes - ST](images/st_comparison.png)
 
 ###  Center Backs (CB)
 For center backs, market value is driven primarily by defensive intelligence and reliability. High-value defenders excel in defensive awareness, tackling, interceptions, and composure, highlighting the importance of positioning, anticipation, and calm decision-making under pressure.
+![High vs Low Value Attributes - CB](images/cb_comparison.png)
 
 ###  Attacking Midfielders (CAM)
 High-value attacking midfielders show large advantages in vision, short passing, dribbling, ball control, and composure. These results emphasize creativity and technical control as key value drivers in advanced midfield roles.
+![High vs Low Value Attributes - CAM](images/cam_comparison.png)
 
 Across all positions, **technical quality and composure consistently outweigh raw physical traits** in differentiating top-value players.
 
@@ -115,7 +118,7 @@ Feature importance analysis highlights:
 
 ---
 
-## 🏁 5️⃣ Key Takeaways
+##  Key Takeaways
 
 - Player market value reflects a balance of **current performance, future potential, and role-specific skills**
 - Age impacts valuation through strong non-linear effects
@@ -124,7 +127,7 @@ Feature importance analysis highlights:
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 This project demonstrates how structured exploratory analysis and interpretable modeling can be used to explain football player market value in a realistic, decision-focused manner. Rather than optimizing for prediction alone, the analysis emphasizes **interpretability, insight generation, and role-aware reasoning**.
 
@@ -132,7 +135,7 @@ The complete analysis, notebooks, and supporting code are available in this repo
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - Python
 - Pandas, NumPy
@@ -142,7 +145,3 @@ The complete analysis, notebooks, and supporting code are available in this repo
 
 ---
 
-## 📝 Notes
-
-- Images shown above are illustrative placeholders
-- Additional plots and intermediate analysis are available in the notebooks
